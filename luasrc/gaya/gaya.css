@@ -390,11 +390,11 @@
  	height: 2.3rem;
  	color: rgba(255, 255, 255, 0.87);
  	border: 0;
- 	border-bottom: 2px solid #30304b;
+ 	border-bottom: 2px solid #00000020;
  	border-radius: 10px;
  	border-radius: 20px;
  	outline: 0;
- 	background-color: #222235;
+ 	background-color: #00000020;
  	background-image: none;
  	box-shadow: none;
  	padding: 0.5rem;
@@ -459,7 +459,7 @@
  	height: 4rem;
  	transition: box-shadow 0.2s;
  	color: var(--header-color);
- 	background: #2222359a;
+ 	background: #00000020;
  	backdrop-filter: blur(10px);
  	-webkit-backdrop-filter: blur(10px);
  }
@@ -590,7 +590,7 @@
  		right: 30px;
  		border-top: var(--navBorder);
  		text-align: center;
- 		background-color: #000000da;
+ 		background-color: #00000020;
  		box-shadow: 0 0 10px 0px #0000002d;
  		box-sizing: content-box;
  		border-radius: 10px;
@@ -2166,7 +2166,7 @@
  td>.ifacebadge,
  .td>.ifacebadge {
  	font-size: 0.8rem;
- 	background-color: #000000;
+ 	background-color: #00000020;
  	border-radius: 10px;
  }
 
@@ -2201,7 +2201,7 @@
  	align-items: center;
  	flex: 1 1 auto;
  	min-width: 220px;
- 	background-color: #11111d;
+ 	background-color: #00000020;
  	margin: 0.5em 0.25em 0;
  	padding: 0.5em;
  	border-radius: 10px;
